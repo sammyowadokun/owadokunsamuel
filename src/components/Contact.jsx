@@ -36,7 +36,8 @@ const Contact = () => {
         <button type="submit" style={{ background: '#007bff', color: '#fff', 
                                        padding: '10px 24px', border: 'none', 
                                       borderRadius: '10px', fontWeight: 'bold', 
-                                      cursor: 'pointer' }}>Send Message</button>
+                                      cursor: 'pointer' }}>Send Message
+        </button>
       </form>
       <div style={{ marginTop: '40px' }}>
         <h3 style={{ marginBottom: '8px' }}>Business Information</h3>

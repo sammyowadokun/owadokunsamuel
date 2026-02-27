@@ -48,7 +48,7 @@ const Hero = () => {
           Samuel Owadokun is Passionate about building innovative solutions at the intersection of technology and creativity.
           Specializing in Front-End development With a strong foundation in JavaScript, React, and cloud technologies, I create seamless user experiences and scalable applications. Let's connect.
         </p>
-        <Link to="/about" className="btn">Learn More</Link>
+        <Link to="/about" className="btn">Learn More...</Link>
       </div>
     </section>
   );

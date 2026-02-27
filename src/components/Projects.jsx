@@ -10,13 +10,13 @@ const Projects = () => {
     {
       title: 'React Portfolio',
       description: 'A personal portfolio website built with React and Vite.',
-      link: 'https://github.com/owad/react-portfolio',
+      link: 'https://owadokunsamuel.vercel.app/',
       image: portfolioImg
     },
     {
       title: 'Recipe AI App',
       description: 'An AI-powered recipe generator using React.',
-      link: 'https://recipe-ai-bice.vercel.app/',
+      link: 'https://recipeai-bay.vercel.app/',
       image: recipeImg
     },
     {
