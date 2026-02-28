@@ -8,7 +8,7 @@ const About = () => {
       <h2 style={{ marginBottom: '20px', color: '#00d4ff' }}>About Me</h2>
       <div style={{ textAlign: 'justify', display: 'inline-block', maxWidth: '800px' }}>
         <p style={{ marginBottom: '18px' }}>
-          I, my name is Samuel, and i am a talented front-End Engineer with hands-on experience building responsive and user-friendly web applications using React, JavaScript, HTML, and CSS. I’ve worked on real-world projects where I implemented component-based architecture, routing, and mobile-responsive layouts. I enjoy translating designs into functional interfaces, debugging layout and styling issues, and improving user experience through modern front-end practices.
+          Hi, my name is Samuel, i am a talented front-End Engineer with hands-on experience building responsive and user-friendly web applications using React, JavaScript, HTML, and CSS. I’ve worked on real-world projects where I implemented component-based architecture, routing, and mobile-responsive layouts. I enjoy translating designs into functional interfaces, debugging layout and styling issues, and improving user experience through modern front-end practices.
         </p>
         <p style={{ marginBottom: '18px' }}>
           Also, I am a Cloud Engineer focused on AWS, currently as a Solutions Architect (Associate). I’ve built hands-on projects with ECS Fargate, S3 + CloudFront + ACM, Route 53, Lambda triggers, and RDS connectivity. I have also worked on projects on Serverless, Containers, Postgres DB and Networking.
