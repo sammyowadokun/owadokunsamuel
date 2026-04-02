@@ -4,9 +4,16 @@ import recipeImg from '../assets/recipe.png';
 import demoImg from '../assets/demo.png';
 import paymentImg from '../assets/payment.png';
 import TJImg from '../assets/TJ.png';
+import tmImg from '../assets/TMdashboard.png';
 
 const Projects = () => {
   const projects = [
+    {
+      title: 'Tm Dashboard',
+      description: 'A React task manager App for efficient task management.',
+      link: 'https://tm-dashboard.vercel.app/',
+      image: tmImg
+    },
     {
       title: 'React Portfolio',
       description: 'A personal portfolio website built with React and Vite.',
