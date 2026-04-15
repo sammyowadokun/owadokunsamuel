@@ -20,7 +20,7 @@ const Nav = () => {
       <div style={{ maxWidth: '1200px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <h3 style={{ fontSize: '1.1rem', margin: 0, fontWeight: '400' }}><Link to="/">Samuel Owadokun</Link></h3>
         {/* Desktop Nav */}
-        <ul className="nav-desktop" style={{ display: 'flex', listStyle: 'none', gap: '20px', fontSize: '0.8rem' }}>
+        <ul className="nav-desktop" style={{ display: 'flex', listStyle: 'none', gap: '20px', fontSize: '0.9rem' }}>
           <li><Link to="/skills" className='list'>Skills</Link></li>
           <li><Link to="/about" className='list'>About Me</Link></li>
           <li><Link to="/projects" className='list'>Projects</Link></li>
@@ -81,7 +81,7 @@ const Nav = () => {
           <Link to="/skills" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>Skills</Link>
           <Link to="/about" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>About Me</Link>
           <Link to="/projects" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>Projects</Link>
-          <Link to="/contact" className="btn2" style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>CONTACT ME</Link>
+          <Link to="/contact" className="btn2" style={{ padding: '16px 32px 16px 52px', margin: '0 50px', width: '75%' }} onClick={handleLinkClick}>CONTACT ME</Link>
         </div>
       </div>
     </nav>

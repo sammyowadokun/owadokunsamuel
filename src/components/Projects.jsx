@@ -5,9 +5,17 @@ import demoImg from '../assets/demo.png';
 import paymentImg from '../assets/payment.png';
 import TJImg from '../assets/TJ.png';
 import tmImg from '../assets/TMdashboard.png';
+import leximg from '../assets/lexperentia.png';
+
 
 const Projects = () => {
   const projects = [
+    {
+      title: 'Lexperentia Dashboard',
+      description: 'A super admin dashboard for a legal learning platform for managing users, payments, sessions, courses, certificates and admin authentication.',
+      link: 'https://lexperentiadashboard.vercel.app/',
+      image: leximg
+    },
     {
       title: 'Tm Dashboard',
       description: 'A React task manager App for efficient task management.',

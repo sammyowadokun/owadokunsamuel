@@ -41,7 +41,7 @@ p {
 
 .btn {
   display: inline-block;
-  padding: 10px 20px 5px 20px;
+  padding: 12px 20px 5px 20px;
   background-color: #00d4ff;
   color: #0a0a0a;
   border-radius: 10px;
@@ -60,7 +60,7 @@ p {
 
 .btn2 {
   display: inline-block;
-  padding: 10px 20px 5px 20px;
+  padding: 12px 20px 5px 20px;
   background-color: #00d4ff;
   color: #0a0a0a;
   border-radius: 10px;
