@@ -11,7 +11,7 @@ const Footer = () => (
     borderTop: '1px solid #00d4ff',
   }}>
     <div style={{ marginBottom: '10px' }}>
-      &copy; {new Date().getFullYear()} Samuel Owadokun- All rights reserved.
+      &copy; {new Date().getFullYear()} Samuel Owadokun- All rights reserved. 2026.
     </div>
     <div>
       Built with React | Connect: <a href="https://github.com/sammyowadokun" style={{ color: '#00d4ff', textDecoration: 'none' }}>GitHub</a> &bull; 
