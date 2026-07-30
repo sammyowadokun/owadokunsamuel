@@ -2,7 +2,7 @@
 import portfolioImg from '../assets/portfolio.png';
 import recipeImg from '../assets/recipe.png';
 import demoImg from '../assets/demo.png';
-import paymentImg from '../assets/payment.png';
+import dreamlabImg from '../assets/dreamlab.png';
 import TJImg from '../assets/TJ.png';
 import tmImg from '../assets/TMdashboard.png';
 import leximg from '../assets/lexperentia.png';
@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: 'Tm Dashboard',
       description: 'A React task manager App for efficient task management.',
-      link: 'https://tm-dashboard.vercel.app/',
+      link: 'https://taskmanager-self-mu.vercel.app/',
       image: tmImg
     },
     {
@@ -41,10 +41,10 @@ const Projects = () => {
       image: demoImg
     },
     {
-      title: 'Card Payment',
-      description: 'A card detailed payment form.',
-      link: 'https://card-payment-azure.vercel.app/',
-      image: paymentImg
+      title: 'Dreamlab website',
+      description: 'A modern website for a tech startup.',
+      link: 'https://dreamlab-indol.vercel.app/',
+      image: dreamlabImg
     },
     {
       title: 'Travel Journal',

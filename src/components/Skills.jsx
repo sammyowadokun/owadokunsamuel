@@ -4,7 +4,7 @@ const Skills = () => (
   <section id="skills" style={{ padding: '120px 10px', background: '#f8f8f8', maxWidth: '900px', margin: '0 auto', borderRadius: '12px' }}>
     <h2 style={{ marginBottom: '20px', color: '#00d4ff' }}>Technical Skills</h2>
     <ul style={{ marginBottom: '30px', lineHeight: '2', listStyle: 'none', paddingLeft: 0 }}>
-      <li><strong>Languages & Frameworks:</strong> React.js, Typescript, HTML5, CSS3, Tailwind CSS, Next.js (Beginner)</li>
+      <li><strong>Languages & Frameworks:</strong> React.js, Typescript, HTML5, CSS3, Tailwind CSS, Vue, Next.js</li>
       <li><strong>Cloud & DevOps:</strong> AWS (S3, EC2, ECS, Lambda, CloudFront, Route 53)</li>
       <li><strong>Tools:</strong> Git, GitHub, VS Code, Canva, Figma</li>
       <li><strong>Database:</strong> PostgreSQL</li>
