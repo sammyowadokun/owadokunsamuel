@@ -81,7 +81,7 @@ const Nav = () => {
           <Link to="/skills" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>Skills</Link>
           <Link to="/about" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>About Me</Link>
           <Link to="/projects" className='list' style={{ padding: '16px 32px', width: '100%' }} onClick={handleLinkClick}>Projects</Link>
-          <Link to="/contact" className="btn2" style={{ padding: '16px 32px 16px 52px', margin: '0 50px', width: '75%' }} onClick={handleLinkClick}>CONTACT ME</Link>
+          <Link to="/contact" className="btn2" style={{ padding: '16px 39px', margin: '0 50px', width: '75%' }} onClick={handleLinkClick}>CONTACT ME</Link>
         </div>
       </div>
     </nav>

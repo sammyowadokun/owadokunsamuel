@@ -60,14 +60,11 @@ p {
 
 .btn2 {
   display: inline-block;
-  padding: 12px 20px 5px 20px;
+  padding: 12px 15px 5px 15px;
   background-color: #00d4ff;
   color: #0a0a0a;
   border-radius: 10px;
-  font-weight: 500;
   height: 40px;
-  font-size: 0.9rem;
-  margin-left: 0;
   transition: background-color 0.3s;
   border: none;
   cursor: pointer;
@@ -131,10 +128,9 @@ p {
   }
 
   .btn2 {
-    padding: 15px 8px;
-    font-size: 0.8rem;
-    height: 48px;
-    /* font-weight: 400; */
+    /* border: 1px solid red; */
+    font-size: 0.5rem;
+    height: 50px;
   }
   
   .nav-desktop {
